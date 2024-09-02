@@ -1,0 +1,111 @@
+body {
+  font-family: 'Happy Monkey', cursive;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #26547C;
+  color:#FCFCFC;
+  background-size: cover;
+}
+
+.profile{
+  text-align: center;
+  margin: 20px 0;
+}
+
+.general-section, .goals-section, .media-section {
+  margin: 0 50px;
+}
+
+h1 {
+  color: #FFD166;
+  margin-top: 20px;
+  font-size: 2.5em;
+}
+
+h2 {
+  color: #FFD166;
+  margin-top: 30px;
+  text-align: left;
+  padding-left: 20px;
+}
+
+p {
+  padding: 0 20px;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 40px;
+  margin: 20px;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+table {
+  width: 80%;
+  margin: 0 0 0 50px;
+  border-collapse: collapse;
+  background-color: #ffffff;
+}
+
+th, td {
+  border: 1px solid #FCFCFC;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color:#FFD166;
+  color: #26547C;
+}
+
+td {
+  background-color: #26547C;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  width: 140px;
+  height: auto;
+  border-radius: 50%;
+  border: 2px solid #333;
+}
+
+audio {
+  display: block;
+  margin: 0 0 0 50px;
+}
+iframe{
+  margin: 0 0 0 50px;
+  padding: 5px;
+  background-color: #FFD166;
+  border-radius: 6px;
+  display: inline-block;
+}
+#welcome-button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  background-color: #FFD166;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: 'Happy Monkey', cursive;
+}
+
+#welcome-button:hover {
+  background-color:#bf8600;
+}
+
+#footer {
+  font-style: italic;
+  width: 400px;
+  margin: 40px auto 20px;
+}
