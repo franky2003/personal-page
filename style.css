@@ -36,7 +36,6 @@ p {
 }
 
 ul {
-  list-style-type: disc;
   padding-left: 40px;
   margin: 20px;
 }
@@ -107,7 +106,7 @@ iframe{
 #footer {
   font-style: italic;
   width: 400px;
-  margin: 40px auto 20px;
+  margin: 50px auto 20px;
 }
 #cover{
   width: 100px;
